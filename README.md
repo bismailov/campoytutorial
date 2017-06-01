@@ -1,1 +1,1 @@
-Tutorial project based on video [Go Tooling in Action](shttps://youtu.be/uBjoTxosSys).
+Tutorial project based on video [Go Tooling in Action](https://youtu.be/uBjoTxosSys).
